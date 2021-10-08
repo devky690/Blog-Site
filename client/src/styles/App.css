@@ -4,3 +4,8 @@
   align-items: center;
   margin-top: 25px;
 }
+
+.section-heading h1 {
+  font-weight: 700;
+  font-size: 64px;
+}
